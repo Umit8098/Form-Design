@@ -27,7 +27,7 @@ To use this form design, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/sample-form-design.git
+   git clone https://github.com/Umit8098/Form-Design.git
    ```
 2. Open the `index.html` file in your browser.
 
