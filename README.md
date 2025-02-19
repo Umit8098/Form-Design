@@ -1,7 +1,7 @@
 
 <h1 align="center">Sample Form Design</h1>
 
-![Sample Form Screenshot](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-06-09%20225356.jpg)
+![Sample Form Screenshot](./Sample-Form-Design.png)
 
 ## 📌 Overview
 This project presents a **sample form design** created with HTML and CSS. The form is structured to be visually appealing and user-friendly, following best practices for modern web design.
@@ -20,7 +20,7 @@ This project presents a **sample form design** created with HTML and CSS. The fo
 ## 📷 Preview
 Here is a preview of the form design:
 
-![Form Design](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-06-09%20225356.jpg)
+![Form Design](./Sample-Form-Design.png)
 
 ## 📂 Installation & Usage
 To use this form design, follow these steps:
